@@ -1,5 +1,5 @@
 {
-    "version": "15",
+    "version": "16",
     "releaseNotes": "Added more channels. ",
     "entries": [
         {
@@ -179,7 +179,7 @@
         },
         {
             "name": "GMA 7",
-            "url": "https:\/\/cdn.ganbaruby23.xyz\/stream\/restream\/gma\/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f",
+            "url": "http:\/\/143.44.136.110:6910\/001\/2\/ch00000090990000001093\/manifest.mpd?virtualDomain=001.live_hls.zte.com",
             "icon": "https:\/\/drive.google.com\/uc?export=download&id=1nJzZZ21EvjgQ2aDJ_AlqdDpi_hIBPlti",
             "clearkey": null,
             "type": ""
