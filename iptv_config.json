@@ -1,34 +1,181 @@
 {
-    "version": "2",
-    "releaseNotes": "08bwz8bwxnixw8nwxb8dwj88hwd8hwd2hs8h2h8d82hd8h27bx7h27db727hdh38d3",
+    "version": "13",
+    "releaseNotes": "Added more channels. ",
     "entries": [
         {
-            "name": "Ywywu",
-            "url": "2ywu2",
-            "icon": "2ywu2u2",
-            "clearkey": "",
+            "name": "Anime HiDive",
+            "url": "https:\/\/amc-anime-x-hidive-1-us.tablo.wurl.tv\/playlist.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lQN4tVJUK4Z1RFNKwGzEYKmhhYF9O7At",
+            "clearkey": null,
             "type": ""
         },
         {
-            "name": "Ydyhshs",
-            "url": "Syu2ud",
-            "icon": "2wdyh2f",
-            "clearkey": "2ufu3f",
-            "type": "H2du82d"
+            "name": "A2Z Channel 11",
+            "url": "https:\/\/qp-pldt-live-grp-02-prod.akamaized.net\/out\/u\/tv5_5.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lQRCzDqTddrQD_-Iga8CY1n5aWBUSCHz",
+            "clearkey": null,
+            "type": ""
         },
         {
-            "name": "Uxeuexuwdce",
-            "url": "3ufi3if3f3",
-            "icon": "3fujeice",
-            "clearkey": "Dwuc",
-            "type": "Eci3ice"
+            "name": "CNN International",
+            "url": "https:\/\/turnerlive.warnermediacdn.com\/hls\/live\/586495\/cnngo\/cnn_slate\/VIDEO_0_3564000.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lGGwBR4IIFPEaDj_pBmupEMtv8E-khja",
+            "clearkey": null,
+            "type": ""
         },
         {
-            "name": "Y7s27gs27g2s",
-            "url": "D3v7d7hh2d",
-            "icon": "2fg727gd2d",
-            "clearkey": "27hd8h2d",
-            "type": "R29vZ2xl hdj2"
+            "name": "Pluto TV Action",
+            "url": "=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lM3BKW1yKOQQ4HQtnUIxQxdbTsjprlXw",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Pluto TV Comedy",
+            "url": "eviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lM3BKW1yKOQQ4HQtnUIxQxdbTsjprlXw",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Pluto TV Drama",
+            "url": "=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lM3BKW1yKOQQ4HQtnUIxQxdbTsjprlXw",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Pluto TV Fantastic",
+            "url": "=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lM3BKW1yKOQQ4HQtnUIxQxdbTsjprlXw",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Pluto TV Romance",
+            "url": "=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lM3BKW1yKOQQ4HQtnUIxQxdbTsjprlXw",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Pluto TV Crime Movies",
+            "url": "ingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lM3BKW1yKOQQ4HQtnUIxQxdbTsjprlXw",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "ABC News",
+            "url": "https:\/\/content.uplynk.com\/channel\/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lSvoizA474Pw0sfZHROyeH1ryRfBucsE",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Bloomberg Television",
+            "url": "https:\/\/www.bloomberg.com\/media-manifest\/streams\/us.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1laXkGjC_ydQcJFv-NHAteMxfUv4gFxlo",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "RT Documentary",
+            "url": "https:\/\/rt-rtd.rttv.com\/dvr\/rtdoc\/playlist.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lbwNdi2hbFkQMk3oI7XDusaCeXmBNJqo",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "INCTV",
+            "url": "https:\/\/199211.global.ssl.fastly.net\/643cc12aa824db4374021c8c\/live_95f6ac80dd6511ed9d08b12be56ae55e\/index.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1loEHefO1VZDQYn9mmGscC82X__E4U6OZ",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "DZBB Super Radio",
+            "url": "https:\/\/stream.gmanews.tv\/ioslive\/livestream\/playlist.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1lwVVLBbVbuD_jGDEECTc-j-P7Q9lqxV-",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Wish 107.5",
+            "url": "https:\/\/fm.mark-projects.site\/stream\/wish.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1mGTYZW9bNwT53OrPs0AD_gfKobE58rNY",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "CGTN News",
+            "url": "https:\/\/news.cgtn.com\/resource\/live\/english\/cgtn-news.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1mPQSJXzMmSrsZ22kmsMq1081PRViUNCT",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Outdoor Channel",
+            "url": "https:\/\/cdn-apse1-prod.tsv2.amagi.tv\/linear\/amg00718-outdoorchannela-outdoortvnz-samsungnz\/playlist.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1mRbczWl7aklSh659YC32bjoLNbFudE1z",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Bein Sports Xtra",
+            "url": "https:\/\/amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv\/playlist.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1ma0ptEHmehAa-86n9UqT0-dsEpYygu2Y",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "MovieSphere",
+            "url": "https:\/\/moviesphereuk-samsunguk.amagi.tv\/playlist.m3u8",
+            "icon": "https:\/\/drive.google.com\/file\/d\/1mdRxkeYw-4W1npbFyLuekfgr99PrI_85\/view?usp=drivesdk",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Garage TV",
+            "url": "https:\/\/stream1.sersat.com\/hls\/garagetv.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1mf24VMjWrj3mEOmDVz0rr2dkcEPF9hM9",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "GTV",
+            "url": "https:\/\/cdn.ganbaruby23.xyz\/stream\/restream\/gtv\/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1myska5kzMcG0O_UNsPBYv_BkONwVra3j",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Deshi TV",
+            "url": "https:\/\/deshitv.deshitv24.net\/live\/myStream\/playlist.m3u8 ",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1n0cXhuSghZmikOiCymxdVrYe1I9_OE0E",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Ekushey TV",
+            "url": "https:\/\/ekusheyserver.com\/etvlivesn.m3u8 ",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1n0poGjrc8z3cRsISIkK6-g2TQxBsoPxP",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "Bayon TV",
+            "url": "https:\/\/live-evg2.tv360.metfone.com.kh\/livebayontv\/bayontvhd.stream\/playlist.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1n4wyEtGqyjrOPIAqE8ePEo9b_qp1Lxz3",
+            "clearkey": null,
+            "type": ""
+        },
+        {
+            "name": "BTV News",
+            "url": "https:\/\/live-evg2.tv360.metfone.com.kh\/livetest\/bayontest.stream\/playlist.m3u8 ",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1n57o72cfGaUuYc-aWBqr1sXafvC2QBy0",
+            "clearkey": null,
+            "type": ""
         }
     ]
 }
