@@ -1,5 +1,5 @@
 {
-    "version": "20",
+    "version": "21",
     "releaseNotes": "Added more channels. ",
     "entries": [
         {
@@ -133,7 +133,7 @@
             "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/ZqeHKkC2u7\/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/lKP9okBAtcBYHPNb24LQJqoAMCo.jpg",
             "clearkey": null,
-            "type": ""
+            "type": "18+ Player"
         }
     ]
 }
