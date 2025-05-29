@@ -1,5 +1,5 @@
 {
-    "version": "25",
+    "version": "27",
     "releaseNotes": "Added more channels. ",
     "entries": [
         {
@@ -89,9 +89,9 @@
         {
             "name": "MovieSphere",
             "url": "https:\/\/moviesphereuk-samsunguk.amagi.tv\/playlist.m3u8",
-            "icon": "https:\/\/drive.google.com\/file\/d\/1mdRxkeYw-4W1npbFyLuekfgr99PrI_85\/view?usp=drivesdk",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1mdRxkeYw-4W1npbFyLuekfgr99PrI_85",
             "clearkey": null,
-            "type": ""
+            "type": "HLS"
         },
         {
             "name": "Garage TV",
@@ -132,6 +132,48 @@
             "name": "Deep Inside - Angeli Khang (2025)",
             "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/ZqeHKkC2u7\/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/lKP9okBAtcBYHPNb24LQJqoAMCo.jpg",
+            "clearkey": null,
+            "type": "18+ Player"
+        },
+        {
+            "name": "Ang Pamumukadkad Ni Mirasol (2025)",
+            "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/h0er-78aTX\/0-4?e=UWRNbTlmYkZsSE44L0t3VTN3SXR1d2ZlcVY0aFNmWTJ4TW54Y0M3ckVhZz0I",
+            "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/72iBQcLM4ZxJgoyLzl7eNxGfPC.jpg",
+            "clearkey": null,
+            "type": "18+ Player"
+        },
+        {
+            "name": "The Jowa Collector (2025)",
+            "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/Qs79KJCgMZ\/0-0?e=clBvTWJCRjNicGFrTW9XQmNYQnNPVzZKM1NsZUdIa05ybXF5R0RsNEtOND0U",
+            "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/xnrGqTuLJoZv8icTDpAiLbYAi5F.jpg",
+            "clearkey": null,
+            "type": "18+ Player"
+        },
+        {
+            "name": "Ligaw (2025)",
+            "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/kFM1-qDbcS\/0-5?e=VnhZaE1hRnFtZ21ubUNMWW1WcFBQb0ZVTmNmOHFSd0YxWmlxV3ppTFJTOD0E",
+            "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/yc8V3KEnhvPrzXpdYTXdTvjpOb5.jpg",
+            "clearkey": null,
+            "type": "18+ Player"
+        },
+        {
+            "name": "Rapsa (2025)",
+            "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/Pc74DWSf6t\/0-5?e=OXNJVVJhS3pxb1M5QTNZT0c1NkVibTkyMDZQSm1pRFMzOGxmNm1YRWkybz0A",
+            "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/e4fiTUtkvvp7REZRhHA7DTXcMxj.jpg",
+            "clearkey": null,
+            "type": "18+ Player"
+        },
+        {
+            "name": "Sabik (2025)",
+            "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/AggoWAMs9E\/0-4?e=M3Y2L2lpSzhUU1ROUEI2cXk0VjNnK2REdzU1ZkRGQjlBNkEvQWxhN2IzND0O",
+            "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/vdhLdZQdvllHW5PR7lCmiB6z1Ig.jpg",
+            "clearkey": null,
+            "type": "18+ Player"
+        },
+        {
+            "name": "Tampipi (2025)",
+            "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/ohmsXE64vD\/0-4?e=WkRVYW9tSmtZR0tybFZIR2dGNHhtdGEzb2VoTEo4ZHpFREluZHlVRnhGaz0A",
+            "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/5ghYHjFdnf2QvEHawU7SfG50Z1y.jpg",
             "clearkey": null,
             "type": "18+ Player"
         }
