@@ -1,5 +1,5 @@
 {
-    "version": "30",
+    "version": "31",
     "releaseNotes": "🎉 Channel Update Alert!\nNew channels just dropped on IPTV.PLAY! Fresh content, better streams—update your configuration now and enjoy the latest lineup! 📺✨",
     "entries": [
         {
@@ -194,28 +194,28 @@
         {
             "name": "BBC-Earth",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_earth\/HLSv3-FTA\/BBC_earth.m3u8",
-            "icon": "https:\/\/drive.google.com\/file\/d\/1nx1a_nnjPKNrM7jLlv9KkGQtV63xFZHc\/view?usp=drivesdk",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1nx1a_nnjPKNrM7jLlv9KkGQtV63xFZHc",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "BBC-Lifestyle",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_lifestyle\/HLSv3-FTA\/BBC_lifestyle.m3u8",
-            "icon": "https:\/\/drive.google.com\/file\/d\/1nyuR-wU8PFyAKGTXRTU69d8UU2N3XvPg\/view?usp=drivesdk",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1nyuR-wU8PFyAKGTXRTU69d8UU2N3XvPg",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "BBC News",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_News\/HLSv3-FTA\/BBC_News.m3u8",
-            "icon": "https:\/\/drive.google.com\/file\/d\/1o5wY2YlixM4zLN-rSy8mCH4zy2vHNyYM\/view?usp=drivesdk",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1o5wY2YlixM4zLN-rSy8mCH4zy2vHNyYM",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "Boomerang",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Boomerang\/HLSv3-FTA\/Boomerang.m3u8",
-            "icon": "https:\/\/drive.google.com\/file\/d\/1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B\/view?usp=drivesdk",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B",
             "clearkey": null,
             "type": "HLS"
         },
@@ -236,7 +236,7 @@
         {
             "name": "Cbeebies",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cbeebies\/HLSv3-FTA\/Cbeebies.m3u8",
-            "icon": "https:\/\/drive.google.com\/file\/d\/1oQPOUr-48IMTD_e3rRVIVceat3XUeywB\/view?usp=drivesdk",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1oQPOUr-48IMTD_e3rRVIVceat3XUeywB",
             "clearkey": null,
             "type": "HLS"
         },
@@ -264,28 +264,28 @@
         {
             "name": "Edu Tv",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Education\/HLSv3-FTA\/Education.m3u8",
-            "icon": "https:\/\/drive.google.com\/file\/d\/1olRaUMEVeGrGeMS2_85zFxvqCGsXKF66\/view?usp=drivesdk",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1olRaUMEVeGrGeMS2_85zFxvqCGsXKF66",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "ETV",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/ETV\/HLSv3-FTA\/ETV.m3u8",
-            "icon": "https:\/\/drive.google.com\/file\/d\/1olVXcBIqXkHB-98bJq0MkN7YDnRyXHJe\/view?usp=drivesdk",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1olVXcBIqXkHB-98bJq0MkN7YDnRyXHJe",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "Fashion TV",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Fashion_TV\/HLSv3-FTA\/Fashion_TV.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1on-lmm1k0O33oiM_sXGt6a8hvSAT5B_G",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "Friday",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Friday\/HLSv3-FTA\/Friday.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1otYdl87AIRD7zS31NwGFNf9BRLehth_G",
             "clearkey": null,
             "type": "HLS"
         },
@@ -299,28 +299,28 @@
         {
             "name": "Lotus",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Lotus\/HLSv3-FTA\/Lotus.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1pBLWICAcxGWmSrbxOV9336vWcKRHrtT-",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "Malchin",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Malchin\/HLSv3-FTA\/Malchin.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1pDGOoIwURnv7_VU5k7uKsMxJECNOt0Vt",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "Match Planeta",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Match_Planeta\/HLSv3-FTA\/Match_Planeta.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1pEWGwmxTcIeNDa2ekAc137SVwb6Z2zVN",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "MIR",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MIR\/HLSv3-FTA\/MIR.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1pIDLggDKgEUrcIR8k9FQbaHMTJIAZImT",
             "clearkey": null,
             "type": "HLS"
         },
@@ -334,70 +334,70 @@
         {
             "name": "MNB",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNB\/HLSv3-FTA\/MNB.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1pUa7rxM9Xw1uoT22mC0_mZbLQYWvQQqc",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "MNB World",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNB_World\/HLSv3-FTA\/MNB_World.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1pYaugLLyK9saOq_wCXAWLrc-Wph__txQ",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "MNCTV",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/MNCTV\/HLSv3-FTA\/MNCTV.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1pmMkE3a2Atn5zIyUnizKtE_Cmgf25RbZ",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "Moviebox ",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Moviebox\/HLSv3-FTA\/Moviebox.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1ppq-9swH9wXOscO3U0ldP_1F4_MWV5k_",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "NHK_WORLD",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/NHK_World\/HLSv3-FTA\/NHK_World.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/file\/d\/1px1sAwwiV7zNODK4nXScw0Lj58QXaeTx\/view?usp=drivesdk",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "NHK_World_Premium",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/NHK_World_Premium\/HLSv3-FTA\/NHK_World_Premium.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1q7KLEpt2w8ZuP83jZtUJw1vvJwRzXOh_",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "ONTV",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/ONTV\/HLSv3-FTA\/ONTV.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1q7mXU6Jrz7Igoych3ZUCYc1Lta4NaUK5",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "Parlament",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Parlament\/HLSv3-FTA\/Parlament.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1q88Dhg31uuNr2btZXY47xDR3vTVyxFGO",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "Pobeda",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Pobeda\/HLSv3-FTA\/Pobeda.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1q9wPTjuiIIjFgTFv9s1YD0YsDMVVHyDV",
             "clearkey": null,
             "type": "HLS"
         },
         {
             "name": "Popcorn ",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Popcorn\/HLSv3-FTA\/Popcorn.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1qEClBnos0Y67y-n7LgFA3O7lm6sgoIOd",
             "clearkey": null,
             "type": "HLS"
         },
@@ -411,7 +411,7 @@
         {
             "name": "Zoomoo",
             "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Zoomoo\/HLSv3-FTA\/Zoomoo.m3u8",
-            "icon": "",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1qEn8K8RyObHb8FDw7qkB0A4mMapBejUo",
             "clearkey": null,
             "type": "HLS"
         }
