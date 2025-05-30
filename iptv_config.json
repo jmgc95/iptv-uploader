@@ -1,6 +1,6 @@
 {
-    "version": "27",
-    "releaseNotes": "Added more channels. ",
+    "version": "28",
+    "releaseNotes": "🎉 Channel Update Alert!\nNew channels just dropped on IPTV.PLAY! Fresh content, better streams—update your configuration now and enjoy the latest lineup! 📺✨",
     "entries": [
         {
             "name": "Anime HiDive",
@@ -129,53 +129,151 @@
             "type": ""
         },
         {
-            "name": "Deep Inside - Angeli Khang (2025)",
+            "name": "Deep Inside - Angeli Khang (2025) 🔒",
             "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/ZqeHKkC2u7\/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A",
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/lKP9okBAtcBYHPNb24LQJqoAMCo.jpg",
             "clearkey": null,
             "type": "18+ Player"
         },
         {
-            "name": "Ang Pamumukadkad Ni Mirasol (2025)",
+            "name": "Ang Pamumukadkad Ni Mirasol (2025) 🔒",
             "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/h0er-78aTX\/0-4?e=UWRNbTlmYkZsSE44L0t3VTN3SXR1d2ZlcVY0aFNmWTJ4TW54Y0M3ckVhZz0I",
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/72iBQcLM4ZxJgoyLzl7eNxGfPC.jpg",
             "clearkey": null,
             "type": "18+ Player"
         },
         {
-            "name": "The Jowa Collector (2025)",
+            "name": "The Jowa Collector (2025) 🔒",
             "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/Qs79KJCgMZ\/0-0?e=clBvTWJCRjNicGFrTW9XQmNYQnNPVzZKM1NsZUdIa05ybXF5R0RsNEtOND0U",
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/xnrGqTuLJoZv8icTDpAiLbYAi5F.jpg",
             "clearkey": null,
             "type": "18+ Player"
         },
         {
-            "name": "Ligaw (2025)",
+            "name": "Ligaw (2025) 🔒",
             "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/kFM1-qDbcS\/0-5?e=VnhZaE1hRnFtZ21ubUNMWW1WcFBQb0ZVTmNmOHFSd0YxWmlxV3ppTFJTOD0E",
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/yc8V3KEnhvPrzXpdYTXdTvjpOb5.jpg",
             "clearkey": null,
             "type": "18+ Player"
         },
         {
-            "name": "Rapsa (2025)",
+            "name": "Rapsa (2025)🔒",
             "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/Pc74DWSf6t\/0-5?e=OXNJVVJhS3pxb1M5QTNZT0c1NkVibTkyMDZQSm1pRFMzOGxmNm1YRWkybz0A",
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/e4fiTUtkvvp7REZRhHA7DTXcMxj.jpg",
             "clearkey": null,
             "type": "18+ Player"
         },
         {
-            "name": "Sabik (2025)",
+            "name": "Sabik (2025)🔒",
             "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/AggoWAMs9E\/0-4?e=M3Y2L2lpSzhUU1ROUEI2cXk0VjNnK2REdzU1ZkRGQjlBNkEvQWxhN2IzND0O",
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/vdhLdZQdvllHW5PR7lCmiB6z1Ig.jpg",
             "clearkey": null,
             "type": "18+ Player"
         },
         {
-            "name": "Tampipi (2025)",
+            "name": "Tampipi (2025)🔒",
             "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/ohmsXE64vD\/0-4?e=WkRVYW9tSmtZR0tybFZIR2dGNHhtdGEzb2VoTEo4ZHpFREluZHlVRnhGaz0A",
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/5ghYHjFdnf2QvEHawU7SfG50Z1y.jpg",
             "clearkey": null,
             "type": "18+ Player"
+        },
+        {
+            "name": "Arirang",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Arirang\/HLSv3-FTA\/Arirang.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1nwfpGnCWs9sSz4Wrx6yIrAR_5inZeoUw",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "Babes 🔒",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Babes\/HLSv3-FTA\/Babes.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1nwnkKWncAg3ZnmTFMLHnfsUmmeT9bY40",
+            "clearkey": null,
+            "type": "18+ Player"
+        },
+        {
+            "name": "BBC-Earth",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_earth\/HLSv3-FTA\/BBC_earth.m3u8",
+            "icon": "https:\/\/drive.google.com\/file\/d\/1nx1a_nnjPKNrM7jLlv9KkGQtV63xFZHc\/view?usp=drivesdk",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "BBC-Lifestyle",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_lifestyle\/HLSv3-FTA\/BBC_lifestyle.m3u8",
+            "icon": "https:\/\/drive.google.com\/file\/d\/1nyuR-wU8PFyAKGTXRTU69d8UU2N3XvPg\/view?usp=drivesdk",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "BBC News",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/BBC_News\/HLSv3-FTA\/BBC_News.m3u8",
+            "icon": "https:\/\/drive.google.com\/file\/d\/1o5wY2YlixM4zLN-rSy8mCH4zy2vHNyYM\/view?usp=drivesdk",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "Boomerang",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Boomerang\/HLSv3-FTA\/Boomerang.m3u8",
+            "icon": "https:\/\/drive.google.com\/file\/d\/1oN9q5IoHb01gAXQgL_fEb78fcmuPMo6B\/view?usp=drivesdk",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "C1 TV",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/C1\/HLSv3-FTA\/C1.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1oNTHbMiM2vzVrL588UMGIwYvPeBAla_Y",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "CARTOON NETWORK",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cartoon_Network\/HLSv3-FTA\/Cartoon_Network.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1oOUC7NmgOPsM8SK9gW4Y8uj_W3u3wsyx",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "Cbeebies",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Cbeebies\/HLSv3-FTA\/Cbeebies.m3u8",
+            "icon": "https:\/\/drive.google.com\/file\/d\/1oQPOUr-48IMTD_e3rRVIVceat3XUeywB\/view?usp=drivesdk",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "Discovery Asia",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Discovery_Asia\/HLSv3-FTA\/Discovery_Asia.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1oUSY7e1Yh0QQKln7b6UXCt_Xo0lM4y6H",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "Dreambox",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Dreambox\/HLSv3-FTA\/Dreambox.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1oWGpK6LNVzIgaTyJtL3WNuGAUXqjPeY1",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "Eagle TV",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Eagle\/HLSv3-FTA\/Eagle.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1oZ18fmyHt98aLM-FuW_E92pwVNm4jIbR",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "Edu Tv",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/Education\/HLSv3-FTA\/Education.m3u8",
+            "icon": "https:\/\/drive.google.com\/file\/d\/1olRaUMEVeGrGeMS2_85zFxvqCGsXKF66\/view?usp=drivesdk",
+            "clearkey": null,
+            "type": "HLS"
+        },
+        {
+            "name": "ETV",
+            "url": "https:\/\/cdn4.skygo.mn\/live\/disk1\/ETV\/HLSv3-FTA\/ETV.m3u8",
+            "icon": "https:\/\/drive.google.com\/file\/d\/1olVXcBIqXkHB-98bJq0MkN7YDnRyXHJe\/view?usp=drivesdk",
+            "clearkey": null,
+            "type": "HLS"
         }
     ]
 }
