@@ -1,5 +1,5 @@
 {
-    "version": "7",
+    "version": "8",
     "releaseNotes": "🎉 Channel Update Alert!\nNew channels just dropped on IPTV.PLAY! Fresh content, better streams—update your configuration now and enjoy the latest lineup! 📺✨",
     "entries": [
         {
@@ -476,7 +476,7 @@
             "url": "https:\/\/gstream.hollymoviehd.cc\/streamsvr\/kMvfWYflRt\/0-4?e=aTJqWEYyZzBmYzZkRllhZ1Z1d2o4Y0ZyM2NWV21zWWhMOTFtQUZYZnA2VT0A",
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/ry9AWnoAABgxAEzc3BwLHgf1H1b.jpg",
             "clearkey": null,
-            "type": "HLS"
+            "type": "18+ Player"
         },
         {
             "name": "Habal (2025)🔒",
