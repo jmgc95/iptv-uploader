@@ -1,5 +1,5 @@
 {
-    "version": "6",
+    "version": "7",
     "releaseNotes": "🎉 Channel Update Alert!\nNew channels just dropped on IPTV.PLAY! Fresh content, better streams—update your configuration now and enjoy the latest lineup! 📺✨",
     "entries": [
         {
@@ -582,13 +582,6 @@
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/mnP6YvKzZzPrKvgNF3sXsKPGm6q.jpg",
             "clearkey": null,
             "type": "18+ Player"
-        },
-        {
-            "name": "",
-            "url": "",
-            "icon": "",
-            "clearkey": null,
-            "type": "HLS"
         }
     ]
 }
