@@ -1,6 +1,6 @@
 {
-    "version": "8",
-    "releaseNotes": "🎉 Channel Update Alert!\nNew channels just dropped on IPTV.PLAY! Fresh content, better streams—update your configuration now and enjoy the latest lineup! 📺✨",
+    "version": "9",
+    "releaseNotes": "🎉 Channel Update Alert!\nNew channels just dropped on IPTV.PLAY! Fresh content, better streams—update your configuration now and enjoy the latest lineup! 📺✨\n\n+Added (Boishakhi TV) ",
     "entries": [
         {
             "name": "Anime HiDive",
@@ -582,6 +582,13 @@
             "icon": "https:\/\/image.tmdb.org\/t\/p\/w342\/mnP6YvKzZzPrKvgNF3sXsKPGm6q.jpg",
             "clearkey": null,
             "type": "18+ Player"
+        },
+        {
+            "name": "Boishakhi TV",
+            "url": "https:\/\/boishakhi.sonarbanglatv.com\/boishakhi\/boishakhitv\/index.m3u8",
+            "icon": "https:\/\/drive.google.com\/uc?export=download&id=1sK8we7xR-0UBdUbh2wWrviCYYSAZqNXV",
+            "clearkey": null,
+            "type": "HLS"
         }
     ]
 }
